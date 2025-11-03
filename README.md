@@ -1,10 +1,11 @@
 # Social-Media-Analytics
-Demonstrating data-driven decision-making and KPI analysis through social media performance insights.
+This project focuses on evaluating digital ad performance across Google and Facebook platforms to identify optimization opportunities and measure marketing effectiveness. Using Excel, SQL, Power BI, and Tableau, campaign data was analyzed to derive actionable insights into engagement, conversion, and ROI performance.
 
 # Tools
 Excel | SQL | Power BI | Tableau
 
 # Highlights
-- Created dashboards for engagement rate, audience growth, and post performance.  
-- Wrote SQL queries for top posts, impressions, and content ROI. 
-- Helped identify best posting times and high-performing content categories.
+-Built dashboards for engagement, audience growth, and campaign performance.
+-Wrote SQL queries for KPIs like CTR, conversions, and ROAS.
+-Analyzed audience and ad performance to optimize marketing outcomes.
+-Delivered data-driven insights to improve campaign strategy and ROI.
