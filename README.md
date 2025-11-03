@@ -3,7 +3,7 @@ Project focuses on evaluating digital ad performance across Google and Facebook 
 # Tools
 Excel | SQL | Power BI | Tableau
 # Highlights
--Built dashboards for engagement, audience growth, and campaign performance.
--Wrote SQL queries for KPIs like CTR, conversions, and ROAS.
--Analyzed audience and ad performance to optimize marketing outcomes.
--Delivered data-driven insights to improve campaign strategy and ROI.
+- Built dashboards for engagement, audience growth, and campaign performance.
+- Wrote SQL queries for KPIs like CTR, conversions, and ROAS.
+- Analyzed audience and ad performance to optimize marketing outcomes.
+- Delivered data-driven insights to improve campaign strategy and ROI.
